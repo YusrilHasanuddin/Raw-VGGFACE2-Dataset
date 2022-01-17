@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" href="404/404.css"  media="screen" />
+
+<title>404错误页面</title>
+
+</head>
+
+<body>
+    
+	<!-- Main Wrapper. Set this to 'fixed' for fixed layout and 'fluid' for fluid layout' -->
+	<div id="da-wrapper" class="fluid">
+    
+        <!-- Content -->
+        <div id="da-content">
+            
+            <!-- Container -->
+            <div class="da-container clearfix">
+            
+            	<div id="da-error-wrapper">
+                	
+                   	<div id="da-error-pin"></div>
+                    <div id="da-error-code">
+                    	error <span>404</span>                    </div>
+                	<h1 class="da-error-heading">页面没有找到 我们将会带您进入官方首页!</h1>
+					<meta http-equiv="refresh" content="5;url=//www.aygtjyw.com">
+                </div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div id="da-footer">
+        	<div class="da-container clearfix">
+           </div>
+        </div>
+    </div>
+    
+</body>
+</html>
